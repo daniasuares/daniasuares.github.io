@@ -18,3 +18,15 @@ img{
 	margin-left: auto;
 	margin-right: auto;
 }
+
+a{
+	color:blueviolet;
+}
+
+a:hover{
+	color:black;(0,0,0,0.874)
+}
+
+a:visited{
+	color:rosybrown;
+}
